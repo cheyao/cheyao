@@ -1,4 +1,4 @@
-### Hi there 👋
+### o/
 My discord is cyao1234#2688.
 
 Working on HighwayTools and WikiTools
