@@ -1,7 +1,7 @@
 ### o/
 My discord is cyao1234#2688.
 
-Working on Minecraft OS
+Working on a OS
 
 Main language: C
 
