@@ -1,8 +1,8 @@
 ### o/
-My discord is cyao1234#2688.
+My discord is Cyao#4035.
 
-Achieve Core: RISC-V SOC for AchieveOS
+![](https://img.shields.io/stackexchange/stackoverflow/r/18260623?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=1600) 
 
-AchieveOS: A RISC-V OS
+![](https://profile-counter.glitch.me/cheyao/count.svg)
 
-Kina taken up by school atm
+[Achieve Core](https://github.com/cheyao/Achieve-Core)
