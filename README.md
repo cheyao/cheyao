@@ -14,7 +14,7 @@ I am currently a student learning programming as a hobby.
 - [x] CMake
 - [x] C++
 - [x] C
-- [x] MacOS
+- [x] MacOS and Linux
 
 ### Projects
 
