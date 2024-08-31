@@ -8,13 +8,15 @@
 
 I am currently a student learning programming as a hobby.
 
+Favourite anime: Lycoris Recoil
+
 ### What I use
 
-- [x] Neovim
-- [x] CMake
-- [x] C++
-- [x] C
-- [x] MacOS and Linux
+- Neovim
+- CMake
+- C++
+- C
+- MacOS and Linux
 
 ### Projects
 
