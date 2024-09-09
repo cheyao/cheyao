@@ -17,11 +17,13 @@ Favourite anime: Lycoris Recoil
 - CMake
 - C++
 - C
+- Python
 - MacOS and Linux
 
 ### Projects
 
 [OpenGL game engine](https://github.com/cheyao/opengl): [Online demo here](https://cheyao.github.io/game)
+[LLM](https://github.com/cheyao/llm): Large Language Model written in Python in one week
 
 ### Links
 
