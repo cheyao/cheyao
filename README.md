@@ -26,6 +26,8 @@ Favourite anime: Lycoris Recoil
 
 [LLM](https://github.com/cheyao/llm): Large Language Model written in Python in one week
 
+[Macropad](https://github.com/cheyao/macropad): Macropad
+
 ### Links
 
 Website: https://cheyao.github.io/
