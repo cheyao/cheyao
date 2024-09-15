@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/stackexchange/stackoverflow/r/18260623?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=1600">
-  <img src="https://komarev.com/ghpvc/?username=cheyao&color=blueviolet&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?user_id=94928179&color=blueviolet&style=for-the-badge">
 </p>
 
 <h3 align="center">Welcome to my profile!</h1>
