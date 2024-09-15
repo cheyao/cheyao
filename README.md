@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/stackexchange/stackoverflow/r/18260623?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=1600">
-  <img src="https://hit.yhype.me/github/profile?user_id=94928179&color=blueviolet&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=cheyao&color=blueviolet&style=for-the-badge">
 </p>
 
 <h3 align="center">Welcome to my profile!</h1>
@@ -36,3 +36,5 @@ Best novel: Foundation triology
 ### Links
 
 Website: https://cheyao.github.io/
+
+![](https://hit.yhype.me/github/profile?user_id=94928179)
