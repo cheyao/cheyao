@@ -23,7 +23,7 @@ Best novel: Foundation triology
 - C++
 - C
 - Python
-- MacOS and Linux
+- I use arch BTW
 
 ### Projects
 
