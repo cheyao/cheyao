@@ -27,9 +27,11 @@ Best novel: Foundation triology
 
 ### Projects
 
-[OpenGL game engine](https://github.com/cheyao/opengl): [Online demo here](https://cheyao.github.io/game)
+[2D Minecraft](https://github.com/cheyao/opengl): [Play Online](https://opengl.pages.dev/)
 
 [LLM](https://github.com/cheyao/llm): Large Language Model written in Python in one week
+
+[Aniweather](https://github.com/cheyao/aniweather): Anime weather station for the weebs UwU
 
 [Macropad](https://github.com/cheyao/macropad): Macropad
 
