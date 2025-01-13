@@ -27,7 +27,7 @@ Best novel: Foundation triology
 
 ### Projects
 
-[2D Minecraft](https://github.com/cheyao/opengl): [Play Online](https://opengl.pages.dev/)
+[2D Minecraft](https://github.com/cheyao/2d-minecraft): [Play Online](https://opengl.pages.dev/)
 
 [LLM](https://github.com/cheyao/llm): Large Language Model written in Python in one week
 
