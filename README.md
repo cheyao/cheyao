@@ -19,11 +19,8 @@ Best novel: Foundation triology
 ### What I use
 
 - Neovim
-- CMake
 - C++
-- C
-- Python
-- I use arch BTW
+- I use arch BTW :sunglasses:
 
 ### Projects
 
@@ -34,6 +31,8 @@ Best novel: Foundation triology
 [Aniweather](https://github.com/cheyao/aniweather): Anime weather station for the weebs UwU
 
 [Macropad](https://github.com/cheyao/macropad): Macropad
+
+[AICC](https://github.com/cheyao/aicc): :sparkles:AI:sparkles: C Compiler
 
 ### Links
 
