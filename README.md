@@ -6,18 +6,8 @@
 <h3 align="center">Welcome to my profile!</h1>
 <hr>
 
-### About me
+Hello! Glad to see that you are so interested in me that you are visiting my github profile :D
 
-I am currently a student learning programming as a hobby.
+Here I've got numerous finished (and unfinished) projects I've made since I was 13.
 
-Favourite anime: Lycoris Recoil
-
-Favourite LN: SAO, AOB
-
-Best novel: Foundation triology
-
-### What I use
-
-- Neovim
-- C++
-- I use arch BTW :sunglasses:
+Hope that you like them!
