@@ -3,9 +3,6 @@
   <img src="https://komarev.com/ghpvc/?username=cheyao&color=blueviolet&style=for-the-badge">
 </p>
 
-<h3 align="center">Welcome to my profile!</h1>
-<hr>
-
 Hello! Glad to see that you are visiting my github profile :D
 
 You can see all the projects I made in my personal time here!
