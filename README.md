@@ -6,8 +6,13 @@
 <h3 align="center">Welcome to my profile!</h1>
 <hr>
 
-Hello! Glad to see that you are so interested in me that you are visiting my github profile :D
+Hello! Glad to see that you are visiting my github profile :D
 
-Here I've got numerous finished (and unfinished) projects I've made since I was 13.
+You can see all the projects I made in my personal time here!
+
+Though here is a list of projects I am proud of:
+- [Icepi Zero FPGA Development PCB](https://github.com/cheyao/icepi-zero)
+- [2D Minecraft w/ Custom Game Engine in C++](https://github.com/cheyao/2d-minecraft/)
+- [AICC - AI C Compiler](github.com/cheyao/aicc) (This was ment as a meme LOL)
 
 Hope that you like them!
