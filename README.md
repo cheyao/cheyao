@@ -11,6 +11,6 @@ Though here is a list of projects I am proud of:
 - [Icepi Zero FPGA Development PCB](https://github.com/cheyao/icepi-zero)
 - [2D Minecraft w/ Custom Game Engine in C++](https://github.com/cheyao/2d-minecraft/)
 - [Leptosis, a <8mm superflat split keyboard](https://github.com/cheyao/leptosis)
-- [AICC - AI C Compiler](github.com/cheyao/aicc) (This was ment as a meme LOL)
+- [AICC - AI C Compiler](https://github.com/cheyao/aicc) (This was ment as a meme LOL)
 
 Hope that you like them!
