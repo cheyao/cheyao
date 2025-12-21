@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://img.shields.io/stackexchange/stackoverflow/r/18260623?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge&cacheSeconds=1600">
   <img src="https://komarev.com/ghpvc/?username=cheyao&color=blueviolet&style=for-the-badge">
 </p>
 
@@ -9,6 +8,7 @@ You can see all the projects I made in my personal time here!
 
 Though here is a list of projects I am proud of:
 - [Icepi Zero FPGA Development PCB](https://github.com/cheyao/icepi-zero)
+- [Icepi SBC, A cheap, Linux-capable single-board computer](https://github.com/cheyao/icepi-sbc)
 - [2D Minecraft w/ Custom Game Engine in C++](https://github.com/cheyao/2d-minecraft/)
 - [Leptosis, a <8mm superflat split keyboard](https://github.com/cheyao/leptosis)
 - [AICC - AI C Compiler](https://github.com/cheyao/aicc) (This was meant as a meme LOL)
